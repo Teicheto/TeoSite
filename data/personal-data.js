@@ -18,9 +18,9 @@ export const personalData = {
       { name: 'Git', icon: 'git icon.png' },
       { name: 'Capcut', icon: 'capcut-icon.png'}
     ],
-    contactNumber: '01234567891',
-    email: 'exampleEmail@gmail.com',
-    tiktokLink: 'https://www.tiktok.com/ExampleTiktokLink', // Open your TikTok profile in a browser and copy the link here
-    githubLink: 'https://github.com/exampleGithubLink', // Replace with your GitHub profile link
-    facebookLink: 'https://www.facebook.com/exampleFacebookLink.6/' // Open your Facebook profile in a browser and copy the link here
+    contactNumber: 'Ало делта форс,
+    email: 'teodorfilipov369@gmail.com',
+    tiktokLink: 'https://www.tiktok.com/@teobg699', // Open your TikTok profile in a browser and copy the link here
+    githubLink: 'https://github.com/Teicheto', // Replace with your GitHub profile link
+    facebookLink: 'https://www.facebook.com/@teoshop' // Open your Facebook profile in a browser and copy the link here
   }
