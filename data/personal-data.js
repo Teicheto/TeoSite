@@ -1,7 +1,7 @@
 export const personalData = {
-  name: 'Meowish',
+  name: 'TeoBG',
   websiteLogo: 'website logo.png',
-  mainSkills: ['Web Developer', 'Tiktoker', 'Designer'],
+  mainSkills: ['Web Developer', 'Minecraft Dev', 'Designer'],
   profilePic: 'profile-pic.png', // Add your photo to the "images" folder and specify its filename here
   bio: `Hi, I'm Meowish with experience in Web Development & TikTok content creation`,
   resume: 'meowish resume.pdf', // Add your PDF file to the "data" folder and specify its filename here
