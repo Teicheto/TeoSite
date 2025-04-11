@@ -3,7 +3,7 @@ export const personalData = {
   websiteLogo: 'website logo.png',
   mainSkills: ['Web Developer', 'Minecraft Dev', 'Designer'],
   profilePic: 'profile-pic.png', // Add your photo to the "images" folder and specify its filename here
-  bio: `Hi, I'm Meowish with experience in Web Development & TikTok content creation`,
+  bio: `hot/vampire/tall/daddy`,
   resume: 'meowish resume.pdf', // Add your PDF file to the "data" folder and specify its filename here
   techStacks: [
     // Add your tech stack icons to the "icons" folder and specify their filenames here
