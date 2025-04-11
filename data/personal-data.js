@@ -19,7 +19,7 @@ export const personalData = {
     { name: 'Capcut', icon: 'capcut-icon.png'}
   ],
   contactNumber: 'Alo Delta force - Galena',
-  email: 'coding ',
+  email: '69',
   tiktokLink: 'https://www.tiktok.com/@teobg699', // Open your TikTok profile in a browser and copy the link here
   githubLink: 'https://github.com/Teicheto', // Replace with your GitHub profile link
   facebookLink: 'https://www.facebook.com//' // Open your Facebook profile in a browser and copy the link here
